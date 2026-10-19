@@ -137,3 +137,7 @@ cython_debug/
 
 # JupyterLab
 .jupyterlab-config
+
+# QR Code Generator output
+qr_codes/
+logs/
